@@ -1,6 +1,6 @@
 # POS
 
-Project - Custom Point of Sale (POS) System for Furniture Store
+**Project - Custom Point of Sale (POS) System for Furniture Store**
 
 In response to the growing need for efficient and automated retail management solutions, I developed a robust Point of Sale (POS) system using Microsoft Excel tailored specifically for a furniture store. This system was designed to manage various aspects of the store's operations, including inventory management, sales tracking, and customer billing. The goal of this project was to create a seamless, automated solution that would streamline transaction processes, reduce manual errors, and improve overall efficiency for the store’s operations.
 
